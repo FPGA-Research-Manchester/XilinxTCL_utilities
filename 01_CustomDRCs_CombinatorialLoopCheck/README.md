@@ -43,7 +43,7 @@ If the file does not exist, please create new and add the custom DRC in!
 - **Step 4:** Click OK then check the report!
 
 <p align="center">
-<img width="50%" src="./images/DRC_tab.png">
+<img width="90%" src="./images/DRC_tab.png">
 <img width="50%" src="./images/Report_General.png">
 <img width="50%" src="./images/Report_Details.png">
 </p>
