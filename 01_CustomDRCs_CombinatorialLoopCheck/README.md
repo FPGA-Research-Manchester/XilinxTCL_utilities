@@ -2,7 +2,7 @@
 
 The script adds a custom DRC to check for combinatorial loops.
 
-<img align="center" width="50%" src="./images/Report_Highlight.png">
+<img align="center" width="100%" src="./images/Report_Highlight.png">
 
 This Custom DRC can detect combinatorial loops from:
 - **Look Up Tables**
