@@ -11,6 +11,9 @@ This Custom DRC can detect combinatorial loops from:
 - **Transparent Latches**
 - **Digital Signal Processing Blocks**
 
+By default, the maximum loops can be detected is 10000.
+To adjust that, change:`set ERR_LIMIT 10000` to anything you want.
+
 # Compatibility
 
 It's supposed to work with any Xilinx Vivado versions. (Tested on Vivado 2019.2 and 2020.1)
